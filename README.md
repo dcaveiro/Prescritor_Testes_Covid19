@@ -3,6 +3,13 @@
 Software de automatização da prescrição de testes PCR SARS-CoV-2 com recurso à plataforma P.E.M.
 
 
+## Pré-requisitos
+
+- Computador com ligação à rede do SNS
+- Leitor de cartões
+- Internet Explorer
+
+
 ## Instruções
 
 A base de dados para ser utilizada como entrada é uma base com a estrutura da folha de cálculo de Microsoft Excel intitulada Prescrições.
