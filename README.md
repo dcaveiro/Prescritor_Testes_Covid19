@@ -1,5 +1,8 @@
 # Prescritor Testes Covid-19
 
+Software de automatização da prescrição de testes PCR SARS-CoV-2 com recurso à plataforma P.E.M.
+
+
 ## Instruções
 
 A base de dados para ser utilizada como entrada é uma base com a estrutura da folha de cálculo de Microsoft Excel intitulada Prescrições.
